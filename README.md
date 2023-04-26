@@ -52,10 +52,10 @@ npm start
    "customShort": "custom"
 }
 
-Similary you will find all the defined URL's endpoint in the postman collection in the folder. I have included the POSTMAN collection with the specified request order. To check the complete functionality and each endpoints. Please import the collection in your postman and make each request after running the application.
-This was really a fun assignment and I have added couple of things like JWT authentication and dockerfile to dockerize the application from my side as it the standart mostly and I really like development.
-Also the instruction to run and install the assignment are given above.
-Apart from that I have use mongoDb as a database to manage the data in the assignment. 
+1. Similary you will find all the defined URL's endpoint in the postman collection in the folder. I have included the POSTMAN collection with the specified request order. To check the complete functionality and each endpoints. Please import the collection in your postman and make each request after running the application.
+2. This was really a fun assignment and I have added couple of things like JWT authentication and dockerfile to dockerize the application from my side as it the standart mostly and I really like development.
+3. Also the instruction to run and install the assignment are given above.
+4. Apart from that I have use mongoDb as a database to manage the data in the assignment. 
 Note: Please ensure to run a mongodb client in your local machine to make the assigment database work.
 
 Note : Please ensure to register a user and login it to access the all authenticated endpoints.
